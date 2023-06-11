@@ -1,0 +1,51 @@
+[
+    {
+        "fname": "Ahmed",
+        "lname": "Yimer",
+        "gender": "Male",
+        "phone": "+251955449890",
+        "license": "568254"
+    },
+    {
+        "fname": "Andualem",
+        "lname": "Nigatu",
+        "gender": "Male",
+        "phone": "+251955449890",
+        "license": "54679"
+    },
+    {
+        "fname": "Befikr",
+        "lname": "Alemayehu",
+        "gender": "Male",
+        "phone": "+251955449890",
+        "license": "6542009"
+    },
+    {
+        "fname": "Fstum",
+        "lname": "Legese",
+        "gender": "Male",
+        "phone": "+251955449890",
+        "license": "6527181"
+    },
+    {
+        "fname": "Natan",
+        "lname": "Kebede",
+        "gender": "Male",
+        "phone": "+251927626158",
+        "license": "54687"
+    },
+    {
+        "fname":"Harun",
+        "lname":"Yimam",
+        "gender":"Male",
+        "phone":"+251965674",
+        "license":"76220"
+        },
+        {
+            "fname":"Jemal",
+            "lname":"Ahmed",
+            "gender":"Male",
+            "phone":"+25142280676",
+            "license":"5467623"
+            }
+]

@@ -1,0 +1,31 @@
+
+.workout-details{
+    padding: 10px;
+    position: relative;
+    background: #fff;
+    border-radius: 4px;
+    margin: 10px auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.workout-details h4{
+    font-size: 1.2em;
+    color: var(--primary);
+    margin: 0px 0px 10px 0px;
+}
+.workout-details p{
+    font-size: 0.9em;
+    color: #555;
+    margin: 0px;
+}
+
+.workout-details span{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    background: #f1f1f1;
+    padding: 6px;
+    border-radius: 50%;
+    color: #333;
+}

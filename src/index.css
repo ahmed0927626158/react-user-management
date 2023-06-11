@@ -1,0 +1,38 @@
+:root {
+  --primary:#1aac83;
+  --error:#e7195a;
+}
+
+body{
+  background: #f7f5f5;
+  margin: 0;
+  font-family: "Poppins";
+}
+header{
+  background: #fff;
+}
+header .container{
+  display: flex;
+  margin: 0 auto;
+  padding: 5px px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header a{
+  color: #333;
+  text-decoration: none;
+}
+.pages{
+  padding: 20px;
+  margin: 0 auto;
+  
+}
+
+:root{
+  --primary-color:#181b3a;
+  --secondary-color:#01d293;
+  --body-color:#0b0c26;
+  --heading-color:#fff;
+  --small-text-color:#808191;
+}

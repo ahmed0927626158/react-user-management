@@ -1,0 +1,22 @@
+.intro-left>:nth-child(1){
+    color: transparent;
+  
+    font-weight: bold;
+    font-size: 2rem;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--primary);
+}
+.intro-left span{
+    font-weight: bold;
+    font-size: 2rem;
+    color: var(--primary);
+}
+.intro{
+    display: flex;
+    gap: 30rem;
+}
+.intro-right{
+    width: fit-content;
+  
+
+}
